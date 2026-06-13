@@ -85,11 +85,9 @@ dimensional-sorter/
 
 ## 📸 Documentation
 
-> Add system photos and diagrams to `/docs/images/` and update links below.
-
 | System Overview | Web Dashboard | Sorting Mechanism |
 |---|---|---|
-| ![System](docs/images/Schematic.jpeg) | ![System](docs/images/Web_Dashboard.pngg) | ![Video](docs/images/Demonstration_Video.mp4) |
+| ![System](docs/images/Schematic.jpeg) | ![System](docs/images/Web_Dashboard.png) | ![Video](docs/images/Demonstration_Video.mp4) |
 
 ---
 
