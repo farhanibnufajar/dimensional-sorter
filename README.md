@@ -87,9 +87,7 @@ dimensional-sorter/
 
 | System Overview | Web Dashboard | Sorting Mechanism |
 |---|---|---|
-| ![System](docs/images/Schematic.jpeg) | ![System](docs/images/Web_Dashboard.png) | 
-
-https://github.com/user-attachments/assets/fccf6079-f6f8-45e1-8b25-5f14aac8190a |
+| ![System](docs/images/Schematic.jpeg) | ![System](docs/images/Web_Dashboard.png) | https://github.com/user-attachments/assets/fccf6079-f6f8-45e1-8b25-5f14aac8190a |
 
 ---
 
