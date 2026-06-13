@@ -50,7 +50,7 @@ The system reflects core principles used in industrial quality control and autom
 | Firmware | C/C++ (Arduino framework) |
 | Communication | WiFi — ESP32 Web Server |
 | Dashboard | HTML / JavaScript |
-| Schematic Design | EasyEDA |
+| Schematic Design | Canva |
 
 ---
 
@@ -69,13 +69,13 @@ The system reflects core principles used in industrial quality control and autom
 
 ```
 dimensional-sorter/
-├── firmware/
-│   └── main.ino          # Main ESP32 firmware (C/C++)
+├── source_code/
+│   └── SOURCE_CODE_DIMENSIONAL_SORTING_CONVEYOR.ino          # Main ESP32 firmware (C/C++)
 ├── dashboard/
 │   ├── index.html        # Web dashboard UI
 │   └── style.css         # Dashboard styling
 ├── schematic/
-│   └── schematic.pdf     # PCB & wiring schematic (EasyEDA)
+│   └── schematic.jpeg     # PCB & wiring schematic (Canva)
 ├── docs/
 │   └── images/           # System photos & diagrams
 └── README.md
@@ -99,7 +99,7 @@ dimensional-sorter/
    ```
 
 2. **Open firmware in Arduino IDE**
-   - Open `firmware/main.ino`
+   - Open `source_code/SOURCE_CODE_DIMENSIONAL_SORTING_CONVEYOR.ino`
    - Install ESP32 board support via Boards Manager
    - Install required libraries (listed in firmware header)
 
