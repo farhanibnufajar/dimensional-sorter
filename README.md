@@ -39,7 +39,6 @@ The system reflects core principles used in industrial quality control and autom
 | Custom Linear Servo | Dimensional measurement of object |
 | Servo Motor | Sorting gate actuator (4 categories) |
 | DC Motor | Conveyor belt drive |
-| Custom PCB (EasyEDA) | Electrical integration & wiring |
 
 ---
 
