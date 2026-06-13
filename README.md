@@ -1,4 +1,3 @@
-# dimensional-sorter
 # 📦 Dimensional Sorting Conveyor System
 
 An ESP32-based IoT system for automated dimensional measurement and object sorting on a conveyor line, with real-time monitoring via a web dashboard.
