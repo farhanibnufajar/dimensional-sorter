@@ -89,7 +89,7 @@ dimensional-sorter/
 
 | System Overview | Web Dashboard | Sorting Mechanism |
 |---|---|---|
-| ![System](docs/images/Schematic.jpeg) | ![System](docs/images/Web_Dashboard.jpeg) | ![System](docs/images/3D_Design.jpeg) |
+| ![System](docs/images/Schematic.jpeg) | ![System](docs/images/Web_Dashboard.jpeg) | ![Video](docs/images/Demonstration_Video.mp4) |
 
 ---
 
